@@ -1,0 +1,18 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  implot.cpp
+  implot_items.cpp
+  main.cpp
+C:\Repo\media_player\MediaPlayer\main.cpp(201,91): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Repo\media_player\MediaPlayer\main.cpp(201,59): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Repo\media_player\MediaPlayer\main.cpp(203,86): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Repo\media_player\MediaPlayer\main.cpp(203,55): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+main.obj : error LNK2019: nierozpoznany symbol zewnętrzny BASS_SampleLoad przywołany w funkcji "void __cdecl `dynamic initializer for 'sam''(void)" (??__Esam@@YAXXZ)
+C:\Repo\Mentoring\Projekty\MediaPlayer\MediaPlayer\bass24\c\bass.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Repo\media_player\x64\Debug\MediaPlayer.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
